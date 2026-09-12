@@ -16,4 +16,6 @@ islands:
   repos:
   - repo: DarkPyonix/researchtree
     at: [0, 0]
+  - repo: DarkPyonix/researchtree-test
+    at: [1, 0]
 ```
